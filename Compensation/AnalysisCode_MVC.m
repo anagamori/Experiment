@@ -9,7 +9,7 @@ close all
 clear all
 clc
 
-dataFolder = '/Users/akiranagamori/Documents/GitHub/Experiment/Compensation/Data_Akira_Nov20';
+dataFolder = '/Users/akiranagamori/Documents/GitHub/Experiment/Compensation/Akira_Nov26';
 codeFolder = '/Users/akiranagamori/Documents/GitHub/Experiment/Compensation';
 
 Fs = 1000; % sampling frequency 
